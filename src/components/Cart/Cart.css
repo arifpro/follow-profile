@@ -1,0 +1,31 @@
+.checkout-button {
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.text {
+    text-align: center;
+}
+
+.following {
+    margin: 10px;
+    margin-top: 30px;
+    border: 1px solid #5CB85C;
+    border-radius: 5px;
+}
+
+.following:hover {
+    margin: 10px;
+    margin-top: 30px;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+
+.half-width {
+    width: 45%;
+    float: left;
+}
